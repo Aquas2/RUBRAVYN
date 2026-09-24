@@ -1,0 +1,21 @@
+{
+  "name": "RUBRAVYN STONE",
+  "symbol": "RVST",
+  "description": "Structured Market Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/PEPIRA-COIN/refs/heads/main/PEPIRA%20COIN.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/PEPIRA-COIN/refs/heads/main/PEPIRA%20COIN.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7RfFYobhE684wU5tttQs8rZBGG1mv2BYvGVtkwfxVvkT",
+        "share": 100
+      }
+    ]
+  }
+}
